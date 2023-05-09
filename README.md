@@ -1,6 +1,5 @@
 # 💫 About Me:
-I am currently a final-year student at MTU Cork<br>Seeking an graduate position to show-case my skills I have learnt
-
+As a final-year student at MTU Cork, I am eagerly seeking a graduate position to showcase the skills I have learned throughout my academic journey.<br>Seeking an graduate position to show-case my skills I have learnt. I am determined to make a positive impact in the industry and contribute to the growth of the company.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/waleed-akhtar-5b2397221/) 
